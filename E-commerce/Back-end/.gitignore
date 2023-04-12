@@ -1,0 +1,15 @@
+# dependencies
+/node_modules
+
+# build output
+/build
+
+# environment variables
+/.env
+
+# IDE files
+/.vscode
+/.idea
+
+# logs
+*.log
